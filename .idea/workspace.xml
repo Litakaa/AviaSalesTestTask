@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="859b82af-f6e2-4c9f-9adb-824e49310a7d" name="Changes" comment="preview" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="2L2H8vSbOqmEavFnzprKqnX31TC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Lenovo/Desktop/TS infer",
+    "list.type.of.created.stylesheet": "SCSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "ts.external.directory.path": "C:\\Users\\Lenovo\\Desktop\\aviaSels\\my-app\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Desktop\aviaSels\my-app\src\Components" />
+      <recent name="C:\Users\Lenovo\Desktop\aviaSels\my-app\src\Components\Filter" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="859b82af-f6e2-4c9f-9adb-824e49310a7d" name="Changes" comment="" />
+      <created>1675062106175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675062106175</updated>
+      <workItem from="1675062117430" duration="262000" />
+      <workItem from="1675062398803" duration="9048000" />
+      <workItem from="1675071757982" duration="8394000" />
+      <workItem from="1675153628140" duration="1571000" />
+      <workItem from="1675155426707" duration="5360000" />
+      <workItem from="1675237476816" duration="15226000" />
+      <workItem from="1675259462124" duration="1907000" />
+      <workItem from="1675263897205" duration="425000" />
+      <workItem from="1675324916661" duration="9444000" />
+      <workItem from="1675411279700" duration="6779000" />
+      <workItem from="1675667104983" duration="13535000" />
+      <workItem from="1677483074573" duration="14843000" />
+      <workItem from="1677515256174" duration="851000" />
+      <workItem from="1677520322983" duration="40000" />
+      <workItem from="1677581448080" duration="3238000" />
+      <workItem from="1677653359925" duration="15558000" />
+      <workItem from="1677681808339" duration="14000" />
+      <workItem from="1677741455811" duration="12000" />
+      <workItem from="1680515529792" duration="4657000" />
+      <workItem from="1680521954944" duration="209000" />
+      <workItem from="1680522181336" duration="59000" />
+      <workItem from="1680522259907" duration="692000" />
+    </task>
+    <task id="LOCAL-00001" summary="preview">
+      <created>1680516188825</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680516188825</updated>
+    </task>
+    <task id="LOCAL-00002" summary="preview">
+      <created>1680518144935</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680518144935</updated>
+    </task>
+    <task id="LOCAL-00003" summary="preview">
+      <created>1680518734503</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680518734503</updated>
+    </task>
+    <task id="LOCAL-00004" summary="preview">
+      <created>1680518756722</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680518756722</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="preview" />
+    <option name="LAST_COMMIT_MESSAGE" value="preview" />
+  </component>
+</project>
